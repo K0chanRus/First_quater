@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-11-23T14:40:23.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.660 YaBrowser/23.9.5.660 Yowser/2.5 Safari/537.36" etag="peZPpiiCulh2vg_eLqzN" version="22.1.3" type="device">
+  <diagram name="Страница — 1" id="phoPkE71Pf-w7QbHvDIl">
+    <mxGraphModel dx="878" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-1" target="LiPIRgc45FNXtWF4hS6T-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-9" target="LiPIRgc45FNXtWF4hS6T-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-9" value="j = ?&lt;br&gt;m[ ] = ?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-11" target="LiPIRgc45FNXtWF4hS6T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-11" value="n[ ]&lt;br&gt;i = 0&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="300" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-16" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-13" target="LiPIRgc45FNXtWF4hS6T-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-20" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-13" target="LiPIRgc45FNXtWF4hS6T-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-13" value="i &amp;lt; j" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="430" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-15" target="LiPIRgc45FNXtWF4hS6T-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-15" value="Выведем массив n[ ]" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-17" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="430" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-24" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-19" target="LiPIRgc45FNXtWF4hS6T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-19" value="Length &amp;lt;= 3" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-23" target="LiPIRgc45FNXtWF4hS6T-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-23" value="Скопируем m[i] в массив n[i]" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LiPIRgc45FNXtWF4hS6T-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiPIRgc45FNXtWF4hS6T-26" value="i ++" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="140" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
